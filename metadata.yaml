@@ -1,0 +1,28 @@
+_repo: The-Effects-of-Cross-Self-Fertilisation-in-the-Vegetable-Kingdom_4346
+alternative_title: The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fertilization of plants'
+- !lcsh 'Plants -- Variation'
+- !lcsh 'Pollination'
+- !lcc 'QK'
+title: The Effects of Cross & Self-Fertilisation in the Vegetable Kingdom
+url: http://www.gutenberg.org/ebooks/4346
