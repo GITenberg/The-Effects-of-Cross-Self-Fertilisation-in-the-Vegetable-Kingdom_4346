@@ -1,6 +1,9 @@
 _repo: The-Effects-of-Cross-Self-Fertilisation-in-the-Vegetable-Kingdom_4346
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4346#The-Effects-of-Cross-Self-Fertilisation-in-the-Vegetable-Kingdom
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
