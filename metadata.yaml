@@ -1,5 +1,5 @@
 _repo: The-Effects-of-Cross-Self-Fertilisation-in-the-Vegetable-Kingdom_4346
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom
 covers:
 - cover_type: generated
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Plants -- Variation'
 - !lcsh 'Pollination'
 - !lcc 'QK'
+- GITenberg
 title: The Effects of Cross & Self-Fertilisation in the Vegetable Kingdom
 url: http://www.gutenberg.org/ebooks/4346
